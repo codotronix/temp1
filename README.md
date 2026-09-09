@@ -1,3 +1,5 @@
+# FDE Comic Strips
+
 ## ACT I — Why FDE?
 
 1. The Demo Worked
